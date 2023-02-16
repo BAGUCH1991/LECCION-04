@@ -1,0 +1,1 @@
+for llave, valor in mi_diccionario.items():
